@@ -14,7 +14,7 @@ public class MyScript : MonoBehaviour
 
     void debugger()
     {
-        string a = Debug.Log("HelloMyForstNicePeople");
+        string a = "HelloMyForstNicePeople";
         debugger() = a+ a;
     }
 }
